@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+body {
+  background-color: #95d8ed;
+}
+
+body h1 {
+  text-align: center;
+  font-size: 3rem;
+  padding-bottom: 3rem;
+  padding-top: 2rem;
+}
+
+body h3 {
+  text-align: center;
+  font-size: 2rem;
+  padding-bottom: 2rem;
+}
+
+body p {
+  text-align: center;
+  font-size: 1rem;
+}
+/*# sourceMappingURL=style.css.map */
